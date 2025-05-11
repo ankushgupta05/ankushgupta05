@@ -30,11 +30,6 @@ A passionate **Full Stack Developer** with a strong foundation in web developmen
 
 </div>
 
----
-
-
-
----
 
 ## 🎓 Education
 
