@@ -1,21 +1,5 @@
-Based on your GitHub profile content and the resume you provided, here's a professionally rewritten **README.md** that aligns with your resume while preserving the aesthetic and personal touch of your original GitHub profile:
-
 ---
-
 # 👋 Hi, I'm Ankush Gupta
-
-<div align="center">
-
-![ajou univ](http://software.ajou.ac.kr/images/main/logo.png)
-
-**Computer Science & Engineering (AI & Data Science)**
-Sagar Institute of Science & Technology, Bhopal
-📍 India
-
-</div>
-
-<img align="middle" src="https://i.imgur.com/3Sdo6z8.gif" />
-
 ---
 
 ## 🚀 About Me
@@ -48,15 +32,7 @@ A passionate **Full Stack Developer** with a strong foundation in web developmen
 
 ---
 
-## 📚 Projects & Achievements
 
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ankushgupta05\&repo=E-HealthCare\&theme=radical)](https://github.com/ankushgupta05/E-HealthCare)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ankushgupta05\&repo=INoteBook\&theme=vue-dark)](https://github.com/ankushgupta05/INoteBook)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ankushgupta05\&repo=Portfolio\&theme=tokyonight)](https://github.com/ankushgupta05/Portfolio)
-
-</div>
 
 ---
 
