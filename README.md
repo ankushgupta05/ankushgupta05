@@ -29,7 +29,7 @@ A passionate **Full Stack Developer** with a strong foundation in web developmen
 <code><img height="50" width="70" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code> <code><img height="50" width="70" src="https://dbeaver.io/wp-content/uploads/2021/03/dbeaver-head-logo.png"></code>
 
 </div>
-
+---
 
 ## 🎓 Education
 
